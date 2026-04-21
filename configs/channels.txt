@@ -1,0 +1,9 @@
+# Approved CC-licensed YouTube channels for math teaching
+# Add channel URLs below (one per line)
+# Only channels with Creative Commons licensed content
+
+# Example channels (verify license before downloading):
+# https://www.youtube.com/@3blue1brown
+# https://www.youtube.com/@KhanAcademy
+# https://www.youtube.com/@mathologer
+# https://www.youtube.com/@numberphile

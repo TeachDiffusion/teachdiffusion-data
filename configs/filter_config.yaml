@@ -1,0 +1,7 @@
+# Quality filter configuration
+min_quality_score: 0.6
+min_duration: 5.0
+max_duration: 30.0
+min_transcript_words: 10
+require_math_keywords: true
+min_math_keyword_count: 2
